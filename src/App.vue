@@ -8,7 +8,6 @@
 
 <script>
   import Tarefas from "./components/Tarefas.vue";
-  
 
   export default {
     name: "App",
@@ -18,7 +17,6 @@
     components: {
       Tarefas,
     },
-
   };
 </script>
 
